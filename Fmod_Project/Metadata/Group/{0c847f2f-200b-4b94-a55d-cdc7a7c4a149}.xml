@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{0c847f2f-200b-4b94-a55d-cdc7a7c4a149}">
+		<property name="name">
+			<value>Diegetic</value>
+		</property>
+		<relationship name="masters">
+			<destination>{01a57dbe-09fb-45ca-b767-efac13e75f2c}</destination>
+		</relationship>
+		<relationship name="effectChain">
+			<destination>{521d7957-b653-4eaa-995a-0719cc003e24}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{a17c3dd3-0ceb-4d5a-a902-1d2ee8b89322}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{db3794be-ff4c-41cd-840a-2405eff2d3b6}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{521d7957-b653-4eaa-995a-0719cc003e24}">
+		<relationship name="effects">
+			<destination>{274dc914-898f-4748-87b3-aa22c3c9bfa2}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{a17c3dd3-0ceb-4d5a-a902-1d2ee8b89322}" />
+	<object class="MixerBusFader" id="{274dc914-898f-4748-87b3-aa22c3c9bfa2}" />
+</objects>

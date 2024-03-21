@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 91162e814f039cc4296375cefa5c83af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPR_foreground4_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 478
+        width: 86
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f390079cbb6648a49b6b3f2475008
+      internalID: -2082541163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 814
+        width: 122
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a9e389dc5de149b0df4d22047f95b
+      internalID: -1938218591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1209
+        width: 132
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e3b82a536af148aac994a1617f3e4
+      internalID: 1397298805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1317
+        width: 117
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92d715b7db64043a0a4325b882a9ff
+      internalID: 1920400403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1676
+        width: 33
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e39289fcc978744b7d0f1f0bea1706
+      internalID: 762177110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1123
+        width: 65
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab551bcac29261d4188ad1bb42cac5e6
+      internalID: 1228027711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 993
+        width: 172
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a32f3c6972c10418b97dd712f05831
+      internalID: 206180102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_10
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 891
+        width: 137
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e3a751900d41479074af789a47b83
+      internalID: -1171223151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_11
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1841
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b36695d722dc054cad41d78a23c09f3
+      internalID: 121033215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1050
+        width: 426
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5cbf8fdd95bd45acebeb4c4bfe291
+      internalID: 764544975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_13
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1471
+        width: 104
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7c8f9765c2704a830895666bb175b
+      internalID: -1921111665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_14
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1536
+        width: 168
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb315308c6b1fcf47b93cec4ebff1b00
+      internalID: -1765787606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1601
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d06681f6dc3f4e8b5efd155c778be
+      internalID: 193476742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1286
+        width: 4
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba43f694b068014b865b685cf2da17c
+      internalID: 626844791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_17
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1256
+        width: 177
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca14b741538d04e9c63c54fc2b1dd7
+      internalID: -382292553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_18
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1048
+        width: 177
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebde9cb1fc5f344aa8f2bbb56054d8d
+      internalID: -835091295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_19
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1059
+        width: 230
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e2568f4189ee149a320572d6b17b9a
+      internalID: 598716717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_20
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 898
+        width: 178
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff04b760e759342b84b407ca85dff1
+      internalID: -1620122827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 759
+        width: 508
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed988001b9364bb4ab6dc0a70b8a4b20
+      internalID: -874570217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 524
+        width: 122
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4297b3e2ed49f341b2b10fa8343db47
+      internalID: -1530253804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 523
+        width: 157
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e03b3df87230b4409a444a021585cf7
+      internalID: -1515399438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_27
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 536
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c82e017657b14881c622ee7f5791c
+      internalID: 330289128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 549
+        width: 193
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb874e8735a0e04b862f59b74c02506
+      internalID: -1050276725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 546
+        width: 208
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5b41c43a6de647a2c26c6263b6c4a
+      internalID: 325412697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_30
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 550
+        width: 217
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38892e8b96ba7f34dba48f97339d40b2
+      internalID: 1178890108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_31
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 544
+        width: 319
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2220eab2d5c645b92de51f21d4806
+      internalID: 1858380472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_32
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 545
+        width: 261
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5b04b523c9464791f2c4048034fd6
+      internalID: 1529648581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 320
+        width: 480
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a94450c779294e8c233d9cd7ecf5b
+      internalID: 1499402425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 326
+        width: 177
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a123be343bd6f4f992596371dd0085
+      internalID: -1242687164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_35
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 316
+        width: 388
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f20af9ee6b2cc48a7db14a98c8a906
+      internalID: -1664714839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_36
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 325
+        width: 335
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e22ef21e312604bbef08c60f66b1f1
+      internalID: 1765641357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_foreground4_37
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 328
+        width: 303
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c626b7c179414295cd9589723fbc4
+      internalID: -1848037857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPR_foreground4_0: -2082541163
+      SPR_foreground4_1: -1938218591
+      SPR_foreground4_10: -1171223151
+      SPR_foreground4_11: 121033215
+      SPR_foreground4_12: 764544975
+      SPR_foreground4_13: -1921111665
+      SPR_foreground4_14: -1765787606
+      SPR_foreground4_15: 193476742
+      SPR_foreground4_16: 626844791
+      SPR_foreground4_17: -382292553
+      SPR_foreground4_18: -835091295
+      SPR_foreground4_19: 598716717
+      SPR_foreground4_2: 416581748
+      SPR_foreground4_20: -1620122827
+      SPR_foreground4_21: -874570217
+      SPR_foreground4_22: -1530253804
+      SPR_foreground4_23: 1104165233
+      SPR_foreground4_24: 1737065572
+      SPR_foreground4_25: -1978644304
+      SPR_foreground4_26: -1515399438
+      SPR_foreground4_27: 330289128
+      SPR_foreground4_28: -1050276725
+      SPR_foreground4_29: 325412697
+      SPR_foreground4_3: 1397298805
+      SPR_foreground4_30: 1178890108
+      SPR_foreground4_31: 1858380472
+      SPR_foreground4_32: 1529648581
+      SPR_foreground4_33: 1499402425
+      SPR_foreground4_34: -1242687164
+      SPR_foreground4_35: -1664714839
+      SPR_foreground4_36: 1765641357
+      SPR_foreground4_37: -1848037857
+      SPR_foreground4_4: 1920400403
+      SPR_foreground4_5: -1182663113
+      SPR_foreground4_6: 762177110
+      SPR_foreground4_7: 1228027711
+      SPR_foreground4_8: 206180102
+      SPR_foreground4_9: 1973121137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

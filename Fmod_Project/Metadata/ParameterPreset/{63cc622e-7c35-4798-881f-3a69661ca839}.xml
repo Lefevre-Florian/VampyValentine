@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{63cc622e-7c35-4798-881f-3a69661ca839}">
+		<property name="name">
+			<value>SCOREBOARD</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{71a55bcd-e6ff-4c3b-b963-85496cfa4724}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{71a55bcd-e6ff-4c3b-b963-85496cfa4724}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>OFF</value>
+			<value>ON</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

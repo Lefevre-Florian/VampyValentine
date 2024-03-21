@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a1918180-6cd3-43c9-bc15-e31bdf481019}">
+		<property name="name">
+			<value>SCOREBOARD SFX</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c12581ac-6fe6-40e3-b8f6-083c526aecce}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c12581ac-6fe6-40e3-b8f6-083c526aecce}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>3.4000000953674316</value>
+		</property>
+		<relationship name="automators">
+			<destination>{e3fc569e-a3f6-4d32-9a41-cb2bf84de7ce}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{e3fc569e-a3f6-4d32-9a41-cb2bf84de7ce}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{363ec8f6-7a25-4696-a0a5-b93aec9a3ce3}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{363ec8f6-7a25-4696-a0a5-b93aec9a3ce3}">
+		<relationship name="parameter">
+			<destination>{71a55bcd-e6ff-4c3b-b963-85496cfa4724}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{f5578a14-cf56-48a8-b341-8f4e895a8ec0}</destination>
+			<destination>{52c294da-bcc6-4e6b-bc76-885a9e8ad830}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{f5578a14-cf56-48a8-b341-8f4e895a8ec0}">
+		<property name="position">
+			<value>1</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{52c294da-bcc6-4e6b-bc76-885a9e8ad830}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

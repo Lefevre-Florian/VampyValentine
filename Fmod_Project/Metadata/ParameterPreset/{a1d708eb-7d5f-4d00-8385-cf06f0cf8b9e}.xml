@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a1d708eb-7d5f-4d00-8385-cf06f0cf8b9e}">
+		<property name="name">
+			<value>SKIP CINEMATIC</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e47d9253-cf3a-4971-abc6-23dc0a3bfda7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e47d9253-cf3a-4971-abc6-23dc0a3bfda7}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Yes</value>
+			<value>No</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

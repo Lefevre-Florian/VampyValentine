@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{02da34df-2d93-449d-b475-349c77364b6c}">
+		<property name="assetPath">
+			<value>SFX/PLAYER/DIE/player_die_light.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1442291666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{159fd1cd-824c-487b-8e35-d83497921b9c}</destination>
+		</relationship>
+	</object>
+</objects>

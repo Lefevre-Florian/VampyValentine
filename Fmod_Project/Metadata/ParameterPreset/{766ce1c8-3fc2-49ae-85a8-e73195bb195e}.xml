@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{766ce1c8-3fc2-49ae-85a8-e73195bb195e}">
+		<property name="name">
+			<value>PAUSE EQ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bc60b380-196d-48f6-8b04-09d9b13cd3b7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bc60b380-196d-48f6-8b04-09d9b13cd3b7}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>8</value>
+		</property>
+		<relationship name="automators">
+			<destination>{278d4458-547f-4ecf-912a-5e06f34e0ad1}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{278d4458-547f-4ecf-912a-5e06f34e0ad1}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{bdf0f82b-fe2c-4f85-bef7-4c3a5aea4179}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{bdf0f82b-fe2c-4f85-bef7-4c3a5aea4179}">
+		<relationship name="parameter">
+			<destination>{2ad2c29b-29a9-4c4f-aead-7c81332988ba}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{f75c58e9-3e89-480f-80f6-01a0e6e0005a}</destination>
+			<destination>{a5c85539-1ca6-4cbc-8ba5-90e20cc9eea4}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{f75c58e9-3e89-480f-80f6-01a0e6e0005a}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{a5c85539-1ca6-4cbc-8ba5-90e20cc9eea4}">
+		<property name="position">
+			<value>1</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

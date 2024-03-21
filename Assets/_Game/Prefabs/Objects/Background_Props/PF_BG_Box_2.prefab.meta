@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Game/Prefabs/Objects/Background_Props/PF_BG_Box_2.prefab.meta
+guid: f15fa0f3ba7de0a4b99874099f33c815
+PrefabImporter:
+  externalObjects: {}
+========
+guid: 56476d9e45d6e504f82d2a6b01efc134
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+>>>>>>>> dev:Assets/_Game/Timeline/Cinematic/Cinematic.controller.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

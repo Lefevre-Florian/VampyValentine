@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d9dc356c-11fe-4739-b3dd-703514f31395}">
+		<property name="name">
+			<value>DEATH EQ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{13110e92-83dd-49d6-8cf0-258ebe7f7752}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{13110e92-83dd-49d6-8cf0-258ebe7f7752}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="seekSpeed">
+			<value>3.7999999523162842</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1.8999999761581421</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+		<relationship name="automators">
+			<destination>{15bdccc3-8af9-4680-8398-344da18e65d9}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{15bdccc3-8af9-4680-8398-344da18e65d9}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{8198dda8-cec1-4226-ba75-f870758fae02}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{8198dda8-cec1-4226-ba75-f870758fae02}">
+		<relationship name="parameter">
+			<destination>{e7dd0a72-8678-400f-9c8f-5f8f24f6aef1}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{d5d178e2-3120-4b29-beb4-57df26e62dda}</destination>
+			<destination>{e29deaee-7c85-47c0-aa19-c33c78210914}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{d5d178e2-3120-4b29-beb4-57df26e62dda}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{e29deaee-7c85-47c0-aa19-c33c78210914}">
+		<property name="position">
+			<value>1</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

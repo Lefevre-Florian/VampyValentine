@@ -1,0 +1,16 @@
+using System;
+using UnityEngine;
+
+// Author : 
+namespace Com.IsartDigital.Platformer
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+  
+        void Start()
+        {
+            #NOTRIM#
+        }
+
+    }
+}

@@ -1,0 +1,50 @@
+Keys;FR;EN
+KEY_QUIT;Quitter;Quit
+KEY_PLAY;Jouer;Play
+KEY_PLAY_PHONE;Appuyer pour joueur;Tap to play
+KEY_SETTINGS;Options;Settings
+KEY_TITLE;Vampire;Vampire
+KEY_CREDIT;Credit;Credit
+KEY_GLOBAL_SETTING;General;General
+KEY_AUDIO_SETTING;Audio;Audio
+KEY_VIDEO_SETTING;Video;Video
+KEY_CLOSE;Fermer;Close
+KEY_LEVEL_SELECT;Selection des niveaux;Level selection
+KEY_REGISTER;Inscription;Register
+KEY_LOGIN;Connexion;Log in
+KEY_BACK;Retour;Back
+KEY_ERROR_NOT_ANTICIPATED;Erreur non prise en charge, merci de nous le signaler;Error not anticipated, please report it to us
+KEY_ERROR_CONNEXION;Vous n'avez pas de connexion internet;You are offline, switch online to log-in
+KEY_ERROR_INVALID_INPUT;Entree non valide;Invalid input
+KEY_ERROR_USERNAME_NOT_AVAILABLE;Pseudonyme deja utilise;Username already used
+KEY_ERROR_INVALID_USERNAME;Pseudonyme invalide;Invalid username
+KEY_USERNAME;Pseudonyme;Username
+KEY_PASSWORD;Mot de passe;Password
+KEY_OFFLINE;Mode hors ligne;Offline mode
+KEY_ERROR_USER_SHORT;Pseudo trop court, il faut au minimum 3 caracteres;Username too short at least 3 characters are required
+KEY_ERROR_PASS_SHORT;Mot de passe court, il faut au minimum 3 caracteres;Password too short, at least 3 characters are required
+KEY_ERROR_INVALID_ID;ID invalide;ID invalid
+KEY_ERROR_ACCOUNT_NOT_FOUND;Compte introuvable;Account not found
+KEY_ERROR_INVALID_PASSWORD;Mot de passe invalide;Invalid password
+KEY_ERROR_API_LIMIT_EXCEED;Trop de requetes veuillez patientez puis reessayer;Too many request please wait and try again
+KEY_ERROR_INVALID_USER_PASS;Mot de passe invalide;Invalid password
+KEY_ERROR_INVALID_PARAMETERS;Pseudonyme non reconnu;Invalid username
+KEY_LEADERBOARD;Classement;Leaderboard
+KEY_LANGUAGE;Langue;Language
+KEY_GLOBAL;Master;Master :
+KEY_MUSIC;Musique;Music 
+KEY_SFX;SFX;SFX
+KEY_FULLSCREEN;Pleine ecran;Full Screen
+KEY_PRESS;Appuyer sur;Press
+KEY_TO_CONTINUE;pour continuer;to continue
+KEY_TO_PLAY;pour commencer;to start
+KEY_HOLD;Maintenez;Hold
+KEY_JOYSTICK;Affichage du joystick;Display virtual joystick
+KEY_LVL_1;Niveau 1;Level 1
+KEY_LVL_2;Niveau 2;Level 2
+KEY_LOADING;Connexion;Loading
+KEY_TEAM;Le groupe Salers présente;Salers team presents
+KEY_THANKS;Merci d'avoir joué ! ;Thanks for playing!
+KEY_GAMEART;Equipe        Game ART;Game Art Team
+KEY_PEDAGO;Remerciements à                                                              l'équipe pédagogique;Thanks to the                                                           teaching team
+KEY_SKIP;Passer;Skip

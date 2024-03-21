@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d6168017-1aa6-42fb-b16a-cb10f47aef05}">
+		<property name="name">
+			<value>STATE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e19dec34-4e48-4a85-9847-bd2c198fb732}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e7dd0a72-8678-400f-9c8f-5f8f24f6aef1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e7dd0a72-8678-400f-9c8f-5f8f24f6aef1}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>ALIVE</value>
+			<value>DEAD</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

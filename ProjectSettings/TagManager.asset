@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - End
+  - Up
+  - Down
+  - Void
+  - Garlic
+  - Maid
+  - Wood
+  - Lustre
+  - Lantern
+  - Stone
+  - Collectible
+  - Curtain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GameElement
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - Killzone
+  - Collectible
+  - Checkpoint
+  - 
+  - 
+  - Light
+  - Mirror
+  - Occluder
+  - 
+  - Ceiling
+  - 
+  - Platform
+  - CamAccelerator
+  - 
+  - ParallaxDetector
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: _CameraSortingLayerTexture
+    uniqueID: 3286647209
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HeatWaves
+    uniqueID: 1771480849
+    locked: 0
+  - name: InFrontOfLight
+    uniqueID: 781693351
+    locked: 0
+  - name: UI
+    uniqueID: 1211997265
+    locked: 0

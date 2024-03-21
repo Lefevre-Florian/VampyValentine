@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{384e31e8-0f01-486f-8736-9088164a0794}">
+		<property name="name">
+			<value>Chrono</value>
+		</property>
+		<relationship name="folder">
+			<destination>{475b3984-28a2-4d91-8057-a53b02eb1c9c}</destination>
+		</relationship>
+	</object>
+</objects>

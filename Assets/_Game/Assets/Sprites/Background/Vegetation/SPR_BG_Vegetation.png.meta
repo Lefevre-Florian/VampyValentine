@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 8ee09308dc81ddd4c82d160d568b8023
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_01
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 738
+        width: 141
+        height: 1263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0255eeeb603dd4caac217393b3f7f5
+      internalID: -1198987980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1201
+        width: 157
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b654f997473b6fb4bb11218eb10444e0
+      internalID: -612634225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_03
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1307
+        width: 186
+        height: 699
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00428a1f071b34944bfc672d328b8dfc
+      internalID: -2046579945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_04
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1100
+        width: 157
+        height: 898
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422210cfab7b3149b5c25b74bbfe6eb
+      internalID: -300067260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_05
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 985
+        width: 203
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770262c345691e4eb4844ab04ce947c
+      internalID: 1361815440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_06
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 870
+        width: 156
+        height: 1139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6cc78dd55e3904e90ab31180dec6cb
+      internalID: 679839881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_01
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1821
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eadb84cd272aa4cb68b37b95d42591
+      internalID: -1590235010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_02
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1521
+        width: 186
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17f393c220b9d4ebf9d076c167050c
+      internalID: -2011015041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_03
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1254
+        width: 215
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b98da387e57e44a4183293589673a
+      internalID: 1973134358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_04
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1048
+        width: 250
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefed9be15a2c1c4b8ee4118a7dd03aa
+      internalID: -1400648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_05
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 883
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10194df3843215047bd0c5a9ab071a2c
+      internalID: -266412540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Root_01
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 298
+        width: 496
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd5ace1344af84badde13c836fb1ae
+      internalID: -1548038899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Root_02
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 297
+        width: 404
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aca98f245ade549acdddd689799269
+      internalID: 1396528192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Root_03
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 314
+        width: 202
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fc910035f0cc40acf0a88382f7af2
+      internalID: 971133570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_09
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 315
+        width: 349
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e917e1f757d34d4da0fe8e493eebf01
+      internalID: 1883377439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_10
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 316
+        width: 322
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b41e51c151064bbdd44671f377910
+      internalID: 1305038721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 523
+        width: 140
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295691c24415fe94cbad70e1bbb9dc36
+      internalID: 324305497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_02
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 520
+        width: 181
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96894097065f445bd47a75cc91fbe2
+      internalID: -1815972484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_03
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 519
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c174ba8d191bf846bbf1e40cd68528b
+      internalID: -1392073071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Branch_01
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1024
+        width: 442
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df02d1ae98f444ba46b399c2f83b93
+      internalID: -2109335918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Branch_02
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1454
+        width: 178
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56e3031b7d9f0f479c8269a664dcc50
+      internalID: 462290364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Branch_03
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1031
+        width: 210
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1db16a9a3c9d7d40b2ec4de5f2cd95d
+      internalID: 1757485677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Leaf_06
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 755
+        width: 567
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a1230f25e5f84408d80a0c412082ce
+      internalID: -936975890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_04
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 527
+        width: 214
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f11b297a8e2454e92251c56d39aa0c
+      internalID: -1872193451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_05
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 527
+        width: 226
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f49020d87e23e4fbadfe1486ca5b5c
+      internalID: 1853247623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_06
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 529
+        width: 221
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13f86136f27574aa2ca619d799a19b
+      internalID: 1380377684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_07
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 530
+        width: 366
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de14df9eb82f4145854a6aa570e8ccd
+      internalID: 138829211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Grass_08
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 535
+        width: 306
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e35864ba294ef246aa87ec2a672d9be
+      internalID: 1191865941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_BG_Vegetation_Liana_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 106
+        height: 1951
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77664bd7e7f1cce4cb223c97ddc05dd9
+      internalID: -441901644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPR_BG_Vegetation_Branch_01: -2109335918
+      SPR_BG_Vegetation_Branch_02: 462290364
+      SPR_BG_Vegetation_Branch_03: 1757485677
+      SPR_BG_Vegetation_Grass_01: 324305497
+      SPR_BG_Vegetation_Grass_02: -1815972484
+      SPR_BG_Vegetation_Grass_03: -1392073071
+      SPR_BG_Vegetation_Grass_04: -1872193451
+      SPR_BG_Vegetation_Grass_05: 1853247623
+      SPR_BG_Vegetation_Grass_06: 1380377684
+      SPR_BG_Vegetation_Grass_07: 138829211
+      SPR_BG_Vegetation_Grass_08: 1191865941
+      SPR_BG_Vegetation_Grass_09: 1883377439
+      SPR_BG_Vegetation_Grass_10: 1305038721
+      SPR_BG_Vegetation_Leaf_01: -1590235010
+      SPR_BG_Vegetation_Leaf_02: -2011015041
+      SPR_BG_Vegetation_Leaf_03: 1973134358
+      SPR_BG_Vegetation_Leaf_04: -1400648662
+      SPR_BG_Vegetation_Leaf_05: -266412540
+      SPR_BG_Vegetation_Leaf_06: -936975890
+      SPR_BG_Vegetation_Liana_01: -1198987980
+      SPR_BG_Vegetation_Liana_02: -612634225
+      SPR_BG_Vegetation_Liana_03: -2046579945
+      SPR_BG_Vegetation_Liana_04: -300067260
+      SPR_BG_Vegetation_Liana_05: 1361815440
+      SPR_BG_Vegetation_Liana_06: 679839881
+      SPR_BG_Vegetation_Liana_07: -441901644
+      SPR_BG_Vegetation_Root_01: -1548038899
+      SPR_BG_Vegetation_Root_02: 1396528192
+      SPR_BG_Vegetation_Root_03: 971133570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
